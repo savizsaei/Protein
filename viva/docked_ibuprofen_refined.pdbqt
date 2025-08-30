@@ -1,0 +1,414 @@
+MODEL 1
+REMARK minimizedAffinity -4.46418905
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      15.241   2.825  10.059  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      16.035   3.191  11.152  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      16.780   4.374  11.129  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      16.761   5.214  10.006  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      16.018   4.811   8.887  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      15.260   3.635   8.917  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      17.568   6.505  10.015  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      17.172   7.404   8.844  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      17.494   7.273  11.334  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1      18.431   7.435  12.106  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1      16.257   7.750  11.615  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1      15.609   7.586  10.902  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      14.349   1.603  10.127  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1      11.959   1.454  10.993  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      13.436   1.590  11.374  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1      13.826   0.458  12.328  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK minimizedAffinity -4.27051401
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      14.377   2.150   9.684  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      14.611   3.003   8.599  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      15.583   4.005   8.675  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      16.337   4.189   9.844  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      16.053   3.376  10.952  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      15.092   2.363  10.869  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      17.401   5.276   9.893  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      18.333   5.182   8.684  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      16.836   6.690  10.029  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1      16.557   7.427   9.091  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1      16.697   7.097  11.313  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1      16.919   6.403  11.964  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      13.404   0.995   9.563  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1      11.042   0.767  10.485  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      12.534   0.804  10.826  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1      12.922  -0.476  11.571  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK minimizedAffinity -4.20423794
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      11.569   0.270  10.517  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      12.054   1.519  10.922  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      13.137   1.615  11.800  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      13.756   0.462  12.307  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      13.225  -0.787  11.952  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      12.152  -0.882  11.061  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      14.945   0.595  13.248  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      15.627  -0.757  13.459  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      15.963   1.651  12.816  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1      16.755   1.523  11.891  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1      15.947   2.766  13.585  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1      15.244   2.758  14.262  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      10.469   0.167   9.481  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1       9.803  -0.590   7.143  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      10.931  -0.520   8.176  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1      12.136   0.205   7.571  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK minimizedAffinity -4.15139771
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      13.522   1.597  10.826  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      14.476   1.963  11.782  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      15.574   2.754  11.429  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      15.752   3.187  10.107  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      14.831   2.763   9.139  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      13.724   1.985   9.496  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      16.947   4.062   9.755  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      17.532   3.664   8.399  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      16.652   5.561   9.796  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1      16.434   6.260   8.814  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1      16.688   6.086  11.044  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1      16.834   5.418  11.740  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      12.276   0.836  11.230  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1      11.814  -1.582  10.576  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      11.767  -0.119  10.126  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1      10.340   0.242   9.704  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK minimizedAffinity -3.94055486
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      14.664   2.201   9.706  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      15.445   2.522  10.823  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      16.187   3.706  10.860  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      16.177   4.594   9.774  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      15.448   4.238   8.630  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      14.693   3.061   8.600  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      16.980   5.885   9.848  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      18.204   5.715  10.749  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      17.388   6.442   8.484  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1      18.311   6.017   7.801  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1      16.646   7.504   8.089  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1      15.919   7.718   8.705  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      13.775   0.975   9.711  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1      11.411   0.943  10.657  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      12.905   0.865  10.983  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1      13.197  -0.435  11.737  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK minimizedAffinity -3.88927722
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      11.724   0.294  10.702  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      12.348   1.485  11.090  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      13.472   1.466  11.920  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      13.995   0.253  12.395  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      13.327  -0.934  12.060  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      12.211  -0.914  11.216  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      15.231   0.260  13.283  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      15.989   1.581  13.151  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      14.942  -0.051  14.751  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1      14.373   0.704  15.529  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1      15.412  -1.257  15.152  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1      15.811  -1.776  14.428  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      10.575   0.309   9.715  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1       9.765  -0.293   7.377  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      10.909  -0.409   8.388  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1      12.196   0.147   7.773  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK minimizedAffinity -3.71826196
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      14.962   2.086   8.578  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      14.098   2.173   9.676  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      12.985   1.335   9.779  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      12.699   0.394   8.778  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      13.528   0.355   7.647  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      14.651   1.184   7.553  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      11.490  -0.519   8.923  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      11.429  -1.124  10.326  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      10.162   0.148   8.567  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1       9.742   0.311   7.427  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1       9.474   0.597   9.644  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1       9.898   0.371  10.494  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      16.227   2.916   8.522  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1      16.663   4.842  10.130  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      15.983   4.411   8.827  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1      16.473   5.294   7.676  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK minimizedAffinity -3.65873933
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      12.013   0.625   9.831  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      12.406   1.285  11.001  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      13.657   1.901  11.088  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      14.554   1.863  10.010  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      14.184   1.144   8.864  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      12.925   0.541   8.772  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      15.903   2.558  10.126  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      16.960   1.838   9.289  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      15.865   4.047   9.782  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1      16.557   4.907  10.313  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1      14.948   4.362   8.836  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1      14.490   3.582   8.467  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      10.616   0.054   9.697  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1       9.823  -2.366   9.699  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      10.582  -1.284   8.925  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1       9.951  -1.104   7.542  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK minimizedAffinity -3.63503861
+REMARK minimizedRMSD -1
+REMARK  Name = ibuprofen
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_2  and  C_3
+REMARK    3  A    between atoms: C_2  and  C_4
+REMARK    4  A    between atoms: C_4  and  C_5
+REMARK    5  A    between atoms: C_8  and  C_11
+REMARK    6  A    between atoms: C_11  and  C_12
+REMARK    7  A    between atoms: C_11  and  C_13
+REMARK    8  A    between atoms: C_13  and  O_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      15.134   2.552  10.178  0.00  0.00    -0.047 A 
+ATOM      2  C   UNL     1      15.119   3.325   9.011  0.00  0.00    +0.004 A 
+ATOM      3  C   UNL     1      15.903   4.477   8.907  0.00  0.00    +0.005 A 
+ATOM      4  C   UNL     1      16.713   4.895   9.974  0.00  0.00    -0.034 A 
+ATOM      5  C   UNL     1      16.674   4.156  11.166  0.00  0.00    +0.005 A 
+ATOM      6  C   UNL     1      15.902   2.994  11.263  0.00  0.00    +0.004 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C   UNL     1      17.570   6.144   9.827  0.00  0.00    +0.124 C 
+ATOM      8  C   UNL     1      17.074   7.012   8.670  0.00  0.00    +0.024 C 
+BRANCH   7   9
+ATOM      9  C   UNL     1      17.690   6.968  11.108  0.00  0.00    +0.312 C 
+ATOM     10  O   UNL     1      16.830   7.730  11.534  0.00  0.00    -0.250 OA
+BRANCH   9  11
+ATOM     11  O   UNL     1      18.877   6.817  11.742  0.00  0.00    -0.480 OA
+ATOM     12  H   UNL     1      19.458   6.155  11.320  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   7   9
+ENDBRANCH   4   7
+BRANCH   1  13
+ATOM     13  C   UNL     1      14.372   1.245  10.250  0.00  0.00    +0.038 C 
+BRANCH  13  15
+ATOM     14  C   UNL     1      12.475   0.270   8.858  0.00  0.00    +0.007 C 
+ATOM     15  C   UNL     1      12.893   1.384   9.822  0.00  0.00    -0.013 C 
+ATOM     16  C   UNL     1      11.967   1.382  11.041  0.00  0.00    +0.007 C 
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
