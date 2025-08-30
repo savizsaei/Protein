@@ -250,7 +250,6 @@ pymol -cq pose.pml
 
 ---
 
-## What You Can Honestly Claim Now
 
 - **OpenMM** (prep, solvate, minimize, short MD; RMSD analysis)  
 - **Open Babel** (format conversions; PDB↔PDBQT; SMILES→3D SDF; Gasteiger charges)  
